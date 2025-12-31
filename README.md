@@ -1,5 +1,5 @@
 <h1 align="center">
-CS major building strong programming fundamentals from the ground up!
+CS major building strong programming fundamentals, from the ground up!
 </h1>
 
 <h3 align="center">
