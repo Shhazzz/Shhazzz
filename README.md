@@ -14,7 +14,7 @@ Exploring AI/ML and full-stack development, and working steadily toward building
 </a>
 
 <a href="mailto:shazzahra.zaidi@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="40" />
 </a>
 
 ## Languages and Tools:
