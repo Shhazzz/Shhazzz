@@ -17,9 +17,6 @@ Exploring AI/ML and full-stack development, and working steadily toward building
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
 </a>
 
-<img align="right" alt="coding" width="350"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW93aTk2bHozNDVlN255cnJuZTBtbHRtZXljMnN1ZTAwYmtoNzhneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" />
-
 ## Languages and Tools:
 
 <p align="left">
@@ -52,13 +49,21 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW93aTk2bHozNDVlN255cnJuZ
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
 </p>
+
+
