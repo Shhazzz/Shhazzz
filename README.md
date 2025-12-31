@@ -1,11 +1,11 @@
-<h2 align="center">
+<h1 align="center">
 CS major building strong programming fundamentals from the ground up!
-</h2>
+</h1>
 
-<h4 align="center">
+<h3 align="center">
 Currently developing skills in Python, C, DSA, Java, HTML, CSS, JavaScript, and Django.<br>
 Exploring AI/ML and full-stack development, and working steadily toward building real-world, data-driven applications.
-</h4>
+</h3>
 
 ## Connect with me:
 
