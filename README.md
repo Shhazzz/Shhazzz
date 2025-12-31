@@ -46,7 +46,7 @@ Exploring AI/ML and full-stack development, and working steadily toward building
 
 <div style="clear: both;"></div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <p align="center">
   <img
