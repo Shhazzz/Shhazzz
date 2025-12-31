@@ -9,7 +9,7 @@
 
  <!-- Gmail -->
   <a href="mailto:shazzahra.zaidi@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" /> <br>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" /> <br> <br>
   </a> 
 
 ## Languages and Tools:
