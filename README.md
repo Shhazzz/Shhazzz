@@ -10,7 +10,7 @@ Exploring AI/ML and full-stack development, and working steadily toward building
 ## Connect with me:
 
 <a href="https://linkedin.com/in/shaz-zahra-zaidi-b403a5325" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
 </a>
 
 <a href="mailto:shazzahra.zaidi@gmail.com">
