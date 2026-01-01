@@ -52,33 +52,33 @@ Exploring AI/ML and full-stack development, and working steadily toward building
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
-## GitHub Stats
+<!--## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800) -->
 
 
-<h2 align="left">GitHub Stats</h2>
-
+<h2 align="left">GitHub Stats:</h2>
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true"
   />
 </p>
-
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
-</p>
+</p> -->
 
 
