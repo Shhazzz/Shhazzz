@@ -52,6 +52,13 @@ Exploring AI/ML and full-stack development, and working steadily toward building
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Shhazzz&theme=tokyonight&hide_border=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shhazzz&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <h2 align="left">GitHub Stats</h2>
