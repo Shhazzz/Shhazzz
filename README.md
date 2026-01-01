@@ -52,7 +52,7 @@ Exploring AI/ML and full-stack development, and working steadily toward building
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
-<div style="clear: both;"></div>
+
 
 <h2 align="left">GitHub Stats</h2>
 
