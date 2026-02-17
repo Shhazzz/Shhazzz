@@ -4,7 +4,7 @@ CS major building strong programming fundamentals, from the ground up!
 
 <h3 align="center">
 Currently developing skills in Python, C, DSA, Java, HTML, CSS, JavaScript, and Django.<br>
-Exploring AI/ML and full-stack development, and working steadily toward building real-world, data-driven applications.
+Exploring AI/ML, UI/UX and development, while working steadily toward building real-world, data-driven applications.
 </h3>
 
 ## Connect with me:
