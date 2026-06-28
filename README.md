@@ -1,13 +1,16 @@
-<h1 align="center">
+<h2 align="center">
 CS major building strong programming fundamentals, from the ground up!
-</h1>
-
+</h2>
+<!--
 <h3 align="center">
 Currently developing skills in Python, C, DSA, Java, HTML, CSS, JavaScript, and Django.<br>
 Exploring AI/ML, UI/UX and development, while working steadily toward building real-world, data-driven applications.
 </h3>
+-->
 
-## Connect with me:
+
+
+### Connect with me:
 
 <a href="https://linkedin.com/in/shaz-zahra-zaidi-b403a5325" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
@@ -71,7 +74,7 @@ Exploring AI/ML, UI/UX and development, while working steadily toward building r
 
 <p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Shhazzz&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Shhazzz&theme=tokyonight&hide_border=true"
   />
 </p>
 <!--
